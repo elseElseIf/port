@@ -7,7 +7,7 @@ import project03Big from "./../img/projects/03-big.jpg";
 
 const projects = [
   {
-    id: "IDProject01",
+    idKey: "IDProject01",
     title: "Gaming streaming portal",
     skills: "JavaScript, HTML, CSS",
     img: project01,

@@ -195,7 +195,9 @@ body {
 	position: relative;
 	top: 1px;
 }
-
+.project-btns{
+	display: flex;
+}
 /* Projects  */
 
 .projects {

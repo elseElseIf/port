@@ -9,12 +9,12 @@ const Footer = () => {
         <div className="footer__wrapper">
           <ul className="social">
             <li className="social__item">
-              <a href="#!">
+              <a href="https://github.com/elseElseIf">
                 <img src={gitHub} alt="Link"></img>
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a href="https://www.linkedin.com/in/mikhail-pryka">
                 <img src={linkedIn} alt="Link"></img>
               </a>
             </li>
